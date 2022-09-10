@@ -2,6 +2,7 @@ body{
     padding: 1%;
     margin: 1%;
     background: url(https://github.com/51ab/clock/blob/main/images/background.jpg?raw=true);
+    background-size: cover;
 }
 .clock{
     height:350px;
